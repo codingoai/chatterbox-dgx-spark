@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Build Artifacts & Logs
+build_log*.txt
+*.pyc
+__pycache__
+constraints.txt
+
+# Generated outputs
+source_code/test-turbo*.wav
+source_code/audio_samples/
+
+# System
+.DS_Store
